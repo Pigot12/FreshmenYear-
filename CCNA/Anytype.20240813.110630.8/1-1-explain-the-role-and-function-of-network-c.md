@@ -1,4 +1,4 @@
-1.1 Explain the role and function of network components   
+# 1.1 Explain the role and function of network components   
 Γνωριζεις τι αναπαριστα καθενα απο αυτα;   
 ![image.png](files/image.png)    
  --- 
@@ -14,14 +14,13 @@
 - server   
 - client:χρησιμοποιοώ ένα client για να παρακολουθησω αυτό το βίντεο είτε είναι ένα pc ,ένα smartphone.   
     - Αυτά λέγονται endpoints   
- --- 
-   
-# Building a network   
-Έχουμε 2 υπολογιστές.Αν τους συνδέσουμε μεταξύ τους έχουμε ένα network.   
+  
+# Building a network
+* Έχουμε 2 υπολογιστές.Αν τους συνδέσουμε μεταξύ τους έχουμε ένα network.
 ![image.png](files/image_m.png)    
 Τους clients τους αναπαριστα με αυτο το συμβολο αλλα μπορει να ειναι οτιδηποτε.ενα windows pc,ενα linux pc   
 ![image.png](files/image_11.png)    
-client:a device that access a service made available by a server   
+* client:a device that access a service made available by a server   
 ![image.png](files/image_3.png)    
 Θα δούμε τέτοιους data servers .Οποιοδηποτε απο τα client   
 a server:is a device that provides fanctions or services to cleints   
@@ -38,11 +37,7 @@ a server:is a device that provides fanctions or services to cleints
 ## Switches   
 Αυτό είναι ένα δίκτυο για μια μεγαλη εταιρία.Έχει 2 υποκαταστήματα ένα στην Νεα Υιόρκη και ένα στο Τόκυο.   
 Δεν συνδέεις end host(υπολογιστές και servers) απευθείας το ένα και το άλλο.   
-   
- --- 
-   
-Marketing to kids.We have examples like youtube kids,disney   
-sass service:website.   
+
  --- 
 Στον χώρο του IT το "doing lab" ή "labbing" αναφέρεται σε πρακτική άσκηση με την τεχνολογία που μελετάς.   
 labbing για το CCNA:configure Cisco Router and Switches   
@@ -87,7 +82,7 @@ Trick:Κρατάω το controlo key.Δεν χρειάζεται να ξανά �
 Στο επόμενο μάθημα θα διαβάσουμε διαφορετικά τύποι καλωδίων.Τώρα θα αφήσουμε το packet tracer να αποφασίσει   
  --- 
 ## Interfaces and Cables   
-Στο προηγούμενο  μάθημα μιλήσαμε για κάποιες διαφορετικές συσκευές . … … … … …      
+<p>Στο προηγούμενο  μάθημα μιλήσαμε για κάποιες διαφορετικές συσκευές . … … … … …      
 Τώρα θα μιλήσουμε πως τις συνδέουμε.Ασύρματες συνδέσεις θα μιλήσουμε    
 Αυτό είναι το μπορστινό μέρος ενός switch.   
 ![image.png](files/image_0.png)    
@@ -98,7 +93,7 @@ Trick:Κρατάω το controlo key.Δεν χρειάζεται να ξανά �
 ![image.png](files/image_x.png)    
 Άμα ένας υπολογιστής είναι συνδεδεμένος σε ένα wired network τότε χρησιμοποιεί ένα port.Ονομάζεται RJ - 45(REGISTERED JACK   
 Το RJ45 χρησιμοποιείται στο τέλος ενός χάλκινου καλωδίου   
-Υπάρχουν και ethernet καλω´δια    
+Υπάρχουν και ethernet καλω´δια   </p> 
  --- 
 Άμα ένας υπολογιστής είναι συνδεδεμένος σε ένα wired network τότε χρησιμοποιεί ένα port.Ονομάζεται RJ - 45(Registered Jack)   
 Άμα ένας υπολογιστής είναι συνδεδεμένος σε ένα wired network τότε χρησιμοποιεί ένα port.Ονομάζεται RJ 45    
